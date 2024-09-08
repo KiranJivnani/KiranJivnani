@@ -5,12 +5,12 @@ My name is Kiran Jivnani (she/her) and I grew up on the beautiful island of Sint
 
 My personal experiences combined with my professional work on the European Green Deal, COVID-19 recovery strategies, and technology and data policy have fueled my passion for leveraging data and machine learning to tackle global challenges. I am currently pursuing a dual master’s degree in Computer Science and Public Policy at the University of Chicago, with a focus on machine learning, to develop resilient systems that can address these pressing concerns.
 
-## Languages I currently work in: 
+## Languages I currently work in :computer:: 
 - Python
 - R/RStudio
 - SQL
 
-## Experience :computer:: 
+## Experience :nerd_face:: 
 
 ### Switchbox (formerly Win Climate), Data Science Intern: 
 Analyzed consumer data from the Assisted and Empower Programs to assess solar infrastructure investment and impact across five counties in Western New York, uncovering significant bill and energy savings. Conducted an equity assessment, revealing disparities in rural-urban savings and incentives distribution across counties. 	 	 	
