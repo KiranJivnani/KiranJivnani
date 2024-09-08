@@ -34,7 +34,7 @@ Many repositories from school projects are private to follow academic integrity 
 4. Polling Precinct Simulation
 5. Hashtable Implementation in Python
 6. Building a Web Scraper for a Chicago Parks Search Index
-7. Building a search engine
+7. Building a Search Engine
 8. Data Cleaning & Linkage 
 
 
