@@ -13,7 +13,7 @@ My personal experiences combined with my professional work on the European Green
 ## Experience :nerd_face: : 
 
 ### Switchbox (formerly Win Climate), Data Science Intern: 
-Analyzed consumer data from the Assisted and Empower Programs to assess solar infrastructure investment and impact across five counties in Western New York, uncovering significant bill and energy savings. Conducted an equity assessment, revealing disparities in rural-urban savings and incentives distribution across counties. 	 	 	
+Analyzed project data from the Assisted and Empower Programs to assess solar infrastructure investment and impact across five counties in Western New York, uncovering significant bill and energy savings. Conducted an equity assessment, revealing disparities in rural-urban savings and incentives distribution across counties. 	 	 	
 
 ### Atlantic Council, Assistant Director:  	 	 	 	 	 	    	 	  
 Supported the GeoTech Center's research on data divides, climate technology, pandemic prevention, and defense through reports, articles, events, and stakeholder briefings.
